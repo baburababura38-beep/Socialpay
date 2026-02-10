@@ -1,0 +1,38 @@
+{
+    "7517279474": {
+        "naira": 0.0,
+        "dollar": 0.0,
+        "completed_tasks": 0,
+        "pending_tasks": 0,
+        "referral_count": 0,
+        "referral_naira": 0.0,
+        "referral_dollar": 0.0
+    },
+    "7198720208": {
+        "naira": 15000.0,
+        "dollar": 0.0009999999999994458,
+        "completed_tasks": 1,
+        "pending_tasks": 0,
+        "referral_count": 0,
+        "referral_naira": 0.0,
+        "referral_dollar": 0.0
+    },
+    "8598130305": {
+        "naira": 0.0,
+        "dollar": 0.0,
+        "completed_tasks": 0,
+        "pending_tasks": 0,
+        "referral_count": 0,
+        "referral_naira": 0.0,
+        "referral_dollar": 0.0
+    },
+    "8278483592": {
+        "naira": 1000.0,
+        "dollar": 0.0,
+        "completed_tasks": 0,
+        "pending_tasks": 0,
+        "referral_count": 0,
+        "referral_naira": 0.0,
+        "referral_dollar": 0.0
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "ex_7198720208_1770734030": {
+        "user_id": "7198720208",
+        "exchange_type": "dollar_to_naira",
+        "amount": 10.0,
+        "status": "completed",
+        "requested": "2026-02-10 15:33:50.300575",
+        "received_amount": 15000.0,
+        "completed_at": "2026-02-10 15:36:42.525115"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "task_7517279474_1770733415": {
+        "platform": "tiktok",
+        "task_type": "like",
+        "link": "@socialearningroup",
+        "currency": "dollar",
+        "price_dollar": 0.001,
+        "status": "active",
+        "completed_by": [
+            "7198720208"
+        ],
+        "max_users": 3,
+        "created": "2026-02-10 15:23:35.479923",
+        "created_by": "admin"
+    }
+}
